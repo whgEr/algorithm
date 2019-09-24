@@ -1,9 +1,8 @@
-### 算法  
+## 算法  
 
 用代码扎扎实实的写出各种基础算法
-
 &nbsp;
-#####  已实现的算法
+####  已实现的算法
 
 [insert_sort]: https://github.com/whgEr/algorithm/blob/master/insert_sort.py
 
