@@ -5,7 +5,7 @@
 ####  已实现的算法
 
 [insert_sort]: https://github.com/whgEr/algorithm/blob/master/insert_sort.py
-[bubble_sort]: https://github.com/whgEr/algorithm/blob/master/bubble_sort.py
+[bubble_sort]: https://github.com/whgEr/algorithm/blob/master/bubble_sort.go
 
 |   算法  |  实现语言  | 时间复杂度 |
 |   :---:|  :---:   | :---: |
