@@ -21,6 +21,7 @@ func bubble_sort(data []int) []int  {
 			}
 		}
 
+		//有序列提前终止
 		if !is_sorted {
 			return data
 		}
